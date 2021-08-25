@@ -1,4 +1,7 @@
 1)git init-чтобы инициализировать
 2)git config --global user.name выведет имя юзера или создаст(git config --global user.name "user.name")
 3)git config --global user.email
-4)
+4)git add . чтобы добавить
+5)git commit -m "first commit"  чтобы создать коммит
+6)git remote add origin https://github.com/AruzhanBazarbai/pp1.git (для первого раза)
+7)git push -u origin master
