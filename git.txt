@@ -1,0 +1,4 @@
+1)git init-чтобы инициализировать
+2)git config --global user.name выведет имя юзера или создаст(git config --global user.name "user.name")
+3)git config --global user.email
+4)

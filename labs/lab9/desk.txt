@@ -1,0 +1,3 @@
+http://78.140.223.58/cgi-bin/new-client?contest_id=88
+statements-
+http://78.140.223.58/problems/contest-9875-en.pdf

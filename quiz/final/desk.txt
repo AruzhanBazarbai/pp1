@@ -1,0 +1,2 @@
+http://kbtu.acm.kz/problems/contest-19696-en_f14.pdf
+https://www.onlinegdb.com/online_c++_compiler

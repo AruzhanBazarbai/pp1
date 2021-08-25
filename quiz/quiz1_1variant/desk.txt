@@ -1,0 +1,4 @@
+ssilka-
+http://78.140.223.58/cgi-bin/new-client?contest_id=84
+statements-
+http://78.140.223.58/problems/contest-18387-en.pdf

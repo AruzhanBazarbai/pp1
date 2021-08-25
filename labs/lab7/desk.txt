@@ -1,0 +1,5 @@
+http://78.140.223.58/cgi-bin/new-client?contest_id=86
+решение задачи N-
+https://hastebin.com/zujanaxapa.cpp
+statements-
+http://78.140.223.58/problems/contest-9713-en.pdf

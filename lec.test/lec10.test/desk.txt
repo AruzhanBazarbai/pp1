@@ -1,0 +1,2 @@
+lecture samples-
+https://github.com/Beisenbek/PP1_2020_FALL/blob/master/w10/G1/main.cpp

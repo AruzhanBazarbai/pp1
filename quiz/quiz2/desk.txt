@@ -1,0 +1,6 @@
+ssilka-
+http://78.140.223.58/cgi-bin/new-client?contest_id=93
+statements-
+http://78.140.223.58/problems/contest-18820-ennpp.pdf
+
+https://github.com/ernurator/PP1-practice/commit/9673daff813c004ae0e1b7b667f8feeb836faf41
