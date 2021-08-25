@@ -5,3 +5,10 @@
 5)git commit -m "first commit"  чтобы создать коммит
 6)git remote add origin https://github.com/AruzhanBazarbai/pp1.git (для первого раза)
 7)git push -u origin master
+
+8)git branch-чтобы узнать список веток
+9)git branch branch_name- чтобы создать новую ветку
+10)git branch -D branch_name-чтобы удалить ветку
+11)git checkout- чтобы перейти на другую ветку
+12)git checkout -n branch_name-чтобы создать и сразу перейти на эту ветку
+13)git merge other_branch_name-чтобы обьединить другую ветку с основной
